@@ -1,0 +1,32 @@
+.button {
+    margin-right: 10px;
+    background-color: green;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease, transform 0.2s ease;
+  }
+  
+  .button:hover {
+    background-color: darkgreen;
+  }
+  
+  .button:active {
+    transform: scale(0.95);
+  }
+
+
+  .text-input {
+    background-color: #ffd580;  /* Set initial background color */
+    border: 1px solid #ccc;
+    padding: 8px;
+    font-size: 16px;
+    transition: background-color 0.3s; /* Smooth transition for hover effect */
+  }
+
+  .text-input:hover {
+    background-color: #ff9f00; /* Color when hovering */
+  }

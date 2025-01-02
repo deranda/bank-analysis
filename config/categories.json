@@ -1,0 +1,108 @@
+{
+    "Auto": [
+        "EasyPark ",
+        "Apcoa",
+        "Q1 TS",
+        "Greenline",
+        "Autoteile",
+        "Tankautomat",
+        "Shell",
+        "Aral"
+    ],
+    "Bäcker": [
+        "Lechtermann",
+        "Olsson",
+        "Pollmeier",
+        "Le Crobag",
+        "MEIERHOF",
+        "Yormas",
+        "Backerei"
+    ],
+    "Drogerie": [
+        "DROGERIEMARKT",
+        "Rossmann"
+    ],
+    "Essen Gehen": [
+        "Takeaway",
+        "Restaurant",
+        "Imbiss",
+        "Vapiano",
+        "Sushi",
+        "McDonalds"
+    ],
+    "Freizeit/Hobby": [
+        "Arminia Bielefeld",
+        "FREIZEITBAD",
+        "Familienbad",
+        "Spielraum",
+        "Nintendo"
+    ],
+    "Gesundheit/Körperpflege": [
+        "Apotheke",
+        "Fielmann",
+        "FRISOeR",
+        "Friseur",
+        "BFS health finance"
+    ],
+    "Kinderbetreuung": [
+        "5.3840.288",
+        "Stadtkasse Bielefeld Dauerauftragsbelast 5.5499"
+    ],
+    "Kleidung": [
+        "HM Bielefeld",
+        "Toelle Schuhe"
+    ],
+    "Lebensmittel": [
+        "Rewe",
+        "Marktkauf",
+        "Lidl",
+        "Penny",
+        "Aldi",
+        "E-Center Schenke"
+    ],
+    "Möbel/Wohnungsausstattung": [
+        "Ikea",
+        "Jysk",
+        "Tedi"
+    ],
+    "Nebenkosten": [
+        "Rundfunk ARD",
+        "E.ON Energie",
+        "Telekom",
+        "E-Plus",
+        "Audible",
+        "Spotify"
+    ],
+    "Sonstiges": [
+        "DKB AG Abrechnung",
+        "GLS Abschluss",
+        "Deutsche Post AG"
+    ],
+    "Sparen": [
+        "quirion",
+        "ETF",
+        "Livia Johanna Mügge Dauerauftrag",
+        "Cleo Sophie Mügge Sparen",
+        "Livia Johanna Mügge Anlage"
+    ],
+    "Transport": [
+        "mobiel",
+        "Raddesign",
+        "LogPay Financial Services",
+        "Db vertrieb"
+    ],
+    "Umbuchung": [
+        "Beitrag Gemeinschaftskonto",
+        "Gemeinschaftsgeld"
+    ],
+    "Urlaub": [
+        "AGEms"
+    ],
+    "Versicherung": [
+        "DA Deutsche Allgemeine Versicherung",
+        "DKV"
+    ],
+    "Wohnen": [
+        "Herbert Repkow"
+    ]
+}

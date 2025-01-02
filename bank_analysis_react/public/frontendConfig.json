@@ -1,0 +1,4 @@
+{
+	"serverAddress": "http://localhost:8080",
+	"server2Address": "http://192.168.109.52:8080"
+}
